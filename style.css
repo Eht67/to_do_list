@@ -125,3 +125,9 @@ body {
 button:hover {
     cursor: pointer;
 }
+
+.name{
+    font-size: 1rem;
+    margin: 4% auto;
+    text-align: center;
+}
